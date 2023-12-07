@@ -1,0 +1,18 @@
+# 💫 About Me:
+👋 ¡Hola! Soy Leandro, un apasionado aprendiz en el fascinante mundo del diseño y desarrollo web. Actualmente, estoy inmerso en mis estudios para convertirme en un desarrollador Full Stack, y mi aventura ha comenzado con el emocionante viaje de aprender desarrollo, diseño y programación web. 🚀<br><br>📚 Estoy explorando las maravillas de la programación y el diseño web, absorbiendo cada conocimiento para construir una base sólida. Mi entusiasmo crece a medida que desentraño los secretos del código y me sumerjo en el vasto océano de posibilidades que ofrece este mundo.<br><br>💻 Actualmente, estoy trabajando en un proyecto que representa el fruto de mis esfuerzos y aprendizajes en la primera parte de mi curso de desarrollo. Es emocionante ver cómo cada línea de código se traduce en funcionalidades tangibles, ¡y este proyecto es solo el comienzo de lo que planeo lograr!<br><br>🚧 A medida que avanzo en mi curso, mi objetivo es continuar fortaleciendo este proyecto, añadiendo nuevas características y refinando mi habilidad para crear experiencias web impactantes. La maravilla de la tecnología y la creatividad se encuentran en cada línea de código que escribo, y estoy emocionado por lo que el futuro tiene reservado.<br><br>🌐 ¡Conéctate conmigo en este emocionante viaje! Si compartes un interés por el desarrollo web, ¡será genial conocerte y compartir ideas!<br><br>📬 ¡No dudes en contactarme en mi Github y seguir mi progreso en por aquí!<br><br>¡Gracias por unirte a mi travesía de aprendizaje y desarrollo! ✨🐱‍👤
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/issei_shidou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandro-romegialli-bb5924255/) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leandrocoder88&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leandrocoder88&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocoder88&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=leandrocoder88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
