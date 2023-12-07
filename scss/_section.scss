@@ -1,0 +1,12 @@
+//responde a inicio,nosotros y novedades
+section {
+  background-color: $light-bg-color;
+  justify-content: space-around;
+  padding: 15px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+

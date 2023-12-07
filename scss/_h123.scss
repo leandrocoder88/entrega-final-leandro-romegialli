@@ -1,0 +1,27 @@
+h1 {
+    background-color: #{$primary-color}aa;
+    color: $light-bg-color;
+    text-transform: capitalize;
+}
+
+h2 {
+    background-color: $primary-color;
+    text-align: center;
+    text-transform: none;
+    padding: 20px;
+    font-size: 30px;
+    color: $light-bg-color;
+    font-family: $fuente-secundaria;  
+    text-transform: uppercase;
+} 
+
+h3 {
+    background-color: $light-bg-color;
+    text-align: center;
+    text-transform: none;
+    padding: 3px;
+    font-size: 30px;
+    color: $primary-color;
+    font-family: $fuente-secundaria;  
+    text-transform: capitalize;
+}

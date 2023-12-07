@@ -1,0 +1,39 @@
+@import 'mixincards';
+
+.card {
+  @include card-styles($card-width, $card-height, $light-bg-color, $primary-color, $fuente-secundaria);
+}
+
+.card-img1,
+.card-img2,
+.card-img3 {
+  @include card-image-styles($card-height, 12px 12px 0px 0px);
+}
+
+.card-title {
+  @include card-title-styles($primary-color, 25px, $fuente-secundaria);
+}
+
+.card-subt {
+  @include card-subtitle-styles(rgb(61, 66, 66), 20px, 12px, capitalize, $fuente-secundaria);
+}
+
+.card-desc {
+  @include card-content-styles(15px);
+}
+
+.servicios {
+  @include servicios-section-styles(auto, $light-bg-color, cover, center);
+}
+
+.card-img1 {
+  background-image: url(../img/1.jpg);
+}
+
+.card-img2 {
+  background-image: url(../img/2.jpg);
+}
+
+.card-img3 {
+  background-image: url(../img/3.jpg);
+}

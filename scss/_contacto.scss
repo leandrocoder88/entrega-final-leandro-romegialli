@@ -1,0 +1,42 @@
+
+@import 'mixinform';
+
+body {
+    @include body-estilos;
+}
+
+.contacto {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: $secondary-color;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
+    form {
+        @include formulario-estilos;
+
+    label {
+        margin-top: 10px;
+        font-weight: bold;
+        color: #555;
+    }
+
+    input,
+    textarea {
+        @include input-textarea-estilos(12px, 15px, 1px, #ddd, 4px);
+    }
+
+    button {
+        @include boton-estilos($primary-color, #fff, none, 4px);
+
+        &:hover {
+        background-color: #2980b9;
+        }
+    }
+    }
+
+    @media screen and (max-width: 600px) {
+    margin: 20px;
+    }
+}

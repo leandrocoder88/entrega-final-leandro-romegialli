@@ -1,0 +1,17 @@
+.navbar {
+        background-color: $secondary-color;
+        .navbar-collapse {
+                display: flex;
+                flex-basis: auto;
+                flex-direction: row-reverse;
+                .nav-link {
+                        color: $primary-color !important;
+                        list-style: none;
+                        text-transform: capitalize;
+                        top: 25px !important;
+                        font-size: 15px !important;
+                        padding: 5px;
+                        }
+                }
+        }
+

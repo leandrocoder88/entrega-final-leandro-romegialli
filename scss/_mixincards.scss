@@ -1,0 +1,45 @@
+@mixin card-styles($width, $height, $light-bg-color, $primary-color, $fuente-secundaria) {
+    width: $width;
+    height: $height;
+    background-color: $light-bg-color;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid $primary-color;
+    padding: 0px;
+    margin: 15px;
+    max-width: $width;
+    }
+
+@mixin card-image-styles($height, $border-radius) {
+    height: $height;
+    background-size: cover;
+    background-position: center;
+    border-radius: $border-radius;
+    }
+
+@mixin card-title-styles($primary-color, $font-size, $fuente-secundaria) {
+    color: $primary-color;
+    font-size: $font-size;
+    text-transform: capitalize;
+    font-family: $fuente-secundaria;
+    }
+
+
+@mixin card-subtitle-styles($color, $font-size, $padding, $text-transform, $fuente-secundaria) {
+    color: $color;
+    font-size: $font-size;
+    padding: $padding;
+    text-transform: $text-transform;
+    font-family: $fuente-secundaria;
+    }
+
+@mixin card-content-styles($padding) {
+    padding: $padding;
+    }
+
+@mixin servicios-section-styles($height, $light-bg-color, $background-size, $background-position) {
+    height: $height;
+    background-color: $light-bg-color;
+    background-size: $background-size;
+    background-position: $background-position;
+    }

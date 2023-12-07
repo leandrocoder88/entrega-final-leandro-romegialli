@@ -1,0 +1,23 @@
+main {
+    height: auto;
+    background-color: $primary-color;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    background-position: auto;
+
+    .jumbotron {
+        height: $jumbotron-height;
+        background-size: cover;
+        background-position: center;
+
+        h1 {
+        background-color: #{$primary-color}aa;
+        color: $light-bg-color;
+        text-transform: capitalize;
+        }
+
+        p {
+        color: $light-bg-color;
+            }
+        }
+    }

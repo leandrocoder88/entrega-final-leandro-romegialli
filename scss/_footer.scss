@@ -1,0 +1,23 @@
+footer {
+    background-color: $secondary-color;
+    color: $primary-color;
+    padding: 20px;
+    text-align: center;
+    }
+    
+    .copyright {
+    padding-top: 12px;
+    letter-spacing: 3px;
+    font-size: small;
+    color: $primary-color;
+    }
+    
+    a,
+    .redes {
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-align: center;
+    color: $primary-color;
+    background-color: $secondary-color;
+    }

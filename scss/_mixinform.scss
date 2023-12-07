@@ -1,0 +1,26 @@
+@mixin body-estilos {
+    margin: 0;
+    padding: 0;
+    background-color: $primary-color;
+    }
+
+@mixin formulario-estilos {
+    display: flex;
+    flex-direction: column;
+    }
+
+@mixin input-textarea-estilos($padding, $margin-bottom, $border-width, $border-color, $border-radius) {
+    padding: $padding;
+    margin-bottom: $margin-bottom;
+    border: $border-width solid $border-color;
+    border-radius: $border-radius;
+    }
+
+@mixin boton-estilos($background-color, $color, $border, $border-radius) {
+    padding: 12px;
+    background-color: $background-color;
+    color: $color;
+    border: $border;
+    border-radius: $border-radius;
+    cursor: pointer;
+    }
